@@ -1,2 +1,4 @@
 Original contents of firstFile
 added line
+and yet another line, by userA
+
