@@ -1,4 +1,5 @@
 Original contents of firstFile
 added line
 and yet another line, by userA
+and the final line completing a task
 
